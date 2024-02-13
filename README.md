@@ -1,5 +1,7 @@
 # 서비스 이용약관
 
+[ENGLISH](https://fooiff.github.io/MHCompany.Service_en/)
+
 [개인정보처리방침](https://fooiff.github.io/MHCompany.Privacy/)
 
 제1장 총칙
